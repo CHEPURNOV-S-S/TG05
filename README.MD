@@ -4,8 +4,8 @@
 ## Установка
 1. Склонируй репозиторий:
 ```bash
-git clone https://github.com/yourusername/cat-bot.git
-cd cat-bot
+git clone https://github.com/CHEPURNOV-S-S/TG05.git
+cd TG05
 ```
 2. Установи зависимости:
 ```bash
@@ -20,7 +20,7 @@ NASA_API_KEY=ваш_api_key_для_NASA_APOD
 ```
 ## Как запустить
 ```bash
-python bot.py
+python bot_aiogram.py
 ```
 
 Команды бота
